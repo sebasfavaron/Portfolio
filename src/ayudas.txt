@@ -1,0 +1,1 @@
+los links del sidebar te llevan a una seccion de la pagina, en esa seccion poner 'scroll-margin-top: 5rem; position: sticky' en css
